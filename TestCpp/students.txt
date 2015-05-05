@@ -1,0 +1,53 @@
+Number Of Students:5
+Information About Students:
+
+Student's 1 SURNAME: Kirillov
+Student's 1 NAME: Kirill
+Student's 1 AGE: 20
+Student's 1 MARK for Subject Math:4
+Student's 1 MARK for Subject Programming:0
+Student's 1 MARK for Subject Physics:0
+Student's 1 MARK for Subject Philosophy:4
+Student's 1 MARK for Subject Psychology:2
+Students Averange Mark: 2
+
+Student's 2 SURNAME: Mihailov
+Student's 2 NAME: Michail
+Student's 2 AGE: 17
+Student's 2 MARK for Subject Math:3
+Student's 2 MARK for Subject Programming:0
+Student's 2 MARK for Subject Physics:2
+Student's 2 MARK for Subject Philosophy:3
+Student's 2 MARK for Subject Psychology:4
+Students Averange Mark: 2.4
+
+Student's 3 SURNAME: Zachariy
+Student's 3 NAME: Zakhar
+Student's 3 AGE: 21
+Student's 3 MARK for Subject Math:5
+Student's 3 MARK for Subject Programming:1
+Student's 3 MARK for Subject Physics:2
+Student's 3 MARK for Subject Philosophy:3
+Student's 3 MARK for Subject Psychology:0
+Students Averange Mark: 2.2
+
+Student's 4 SURNAME: Ivanov
+Student's 4 NAME: Ivan
+Student's 4 AGE: 19
+Student's 4 MARK for Subject Math:5
+Student's 4 MARK for Subject Programming:5
+Student's 4 MARK for Subject Physics:4
+Student's 4 MARK for Subject Philosophy:4
+Student's 4 MARK for Subject Psychology:5
+Students Averange Mark: 4.6
+
+Student's 5 SURNAME: Petrov
+Student's 5 NAME: Petr
+Student's 5 AGE: 18
+Student's 5 MARK for Subject Math:5
+Student's 5 MARK for Subject Programming:5
+Student's 5 MARK for Subject Physics:1
+Student's 5 MARK for Subject Philosophy:3
+Student's 5 MARK for Subject Psychology:1
+Students Averange Mark: 3
+
