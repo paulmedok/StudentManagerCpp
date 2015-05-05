@@ -12,6 +12,7 @@ using namespace std;
 
 
 
+
 void EnterStudentsFromCLI(Student* &s, int studnumber){
 			cout << "Enter Information About Students:" << endl;
 			int i = 0, j = 0;
